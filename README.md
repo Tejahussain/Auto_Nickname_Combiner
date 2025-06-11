@@ -35,4 +35,7 @@ A Python-based nickname generator that creates **unique, stylish nicknames** by 
 
 ## 🛠 Requirements  
 - **Python 3.x**  
-- No additional libraries needed  
+- No additional libraries needed
+#### 🎯 Purpose  
+-This project helps users generate **unique, stylish nicknames** for social media, gaming, and creative personal branding.
+
